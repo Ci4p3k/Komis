@@ -63,7 +63,7 @@ nav ul li a:hover {
 	position: relative;
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-image: url(/witryna/images/bg.jpg);
+	background-image: url(/images/bg.jpg);
 }
 .main-heading {
 	width: 500px;
